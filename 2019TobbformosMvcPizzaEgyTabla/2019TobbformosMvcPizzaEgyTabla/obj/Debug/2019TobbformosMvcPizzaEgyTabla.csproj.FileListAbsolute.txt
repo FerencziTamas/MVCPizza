@@ -1,0 +1,16 @@
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\obj\Debug\2019TobbformosMvcPizzaEgyTabla.csprojAssemblyReference.cache
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\bin\Debug\2019TobbformosMvcPizzaEgyTabla.exe.config
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\bin\Debug\2019TobbformosMvcPizzaEgyTabla.exe
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\bin\Debug\2019TobbformosMvcPizzaEgyTabla.pdb
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\bin\Debug\MySql.Data.dll
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\bin\Debug\Renci.SshNet.dll
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\bin\Debug\MySql.Data.xml
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\obj\Debug\_2019TobbformosMvcPizzaEgyTabla.FormPizzaFutarKft.resources
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\obj\Debug\_2019TobbformosMvcPizzaEgyTabla.Properties.Resources.resources
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\obj\Debug\2019TobbformosMvcPizzaEgyTabla.csproj.GenerateResource.cache
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\obj\Debug\2019TobbformosMvcPizzaEgyTabla.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\obj\Debug\2019TobbformosMvcPizzaEgyTabla.csproj.CopyComplete
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\obj\Debug\2019TobbformosMvcPizzaEgyTabla.exe
+C:\Users\Acer\Source\Repos\MVCPizza\2019TobbformosMvcPizzaEgyTabla\2019TobbformosMvcPizzaEgyTabla\obj\Debug\2019TobbformosMvcPizzaEgyTabla.pdb
